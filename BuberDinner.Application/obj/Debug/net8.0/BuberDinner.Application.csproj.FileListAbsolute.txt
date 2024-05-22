@@ -1,0 +1,16 @@
+C:\Users\Kanhaiya.Bhayana\source\repos\CleanArchitecture\New folder\BuberDinner\BuberDinner.Application\bin\Debug\net8.0\BuberDinner.Application.deps.json
+C:\Users\Kanhaiya.Bhayana\source\repos\CleanArchitecture\New folder\BuberDinner\BuberDinner.Application\bin\Debug\net8.0\BuberDinner.Application.dll
+C:\Users\Kanhaiya.Bhayana\source\repos\CleanArchitecture\New folder\BuberDinner\BuberDinner.Application\bin\Debug\net8.0\BuberDinner.Application.pdb
+C:\Users\Kanhaiya.Bhayana\source\repos\CleanArchitecture\New folder\BuberDinner\BuberDinner.Application\bin\Debug\net8.0\BuberDinner.Domain.dll
+C:\Users\Kanhaiya.Bhayana\source\repos\CleanArchitecture\New folder\BuberDinner\BuberDinner.Application\bin\Debug\net8.0\BuberDinner.Domain.pdb
+C:\Users\Kanhaiya.Bhayana\source\repos\CleanArchitecture\New folder\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\BuberDinner.Application.csproj.AssemblyReference.cache
+C:\Users\Kanhaiya.Bhayana\source\repos\CleanArchitecture\New folder\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\BuberDinner.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kanhaiya.Bhayana\source\repos\CleanArchitecture\New folder\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\BuberDinner.Application.AssemblyInfoInputs.cache
+C:\Users\Kanhaiya.Bhayana\source\repos\CleanArchitecture\New folder\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\BuberDinner.Application.AssemblyInfo.cs
+C:\Users\Kanhaiya.Bhayana\source\repos\CleanArchitecture\New folder\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\BuberDinner.Application.csproj.CoreCompileInputs.cache
+C:\Users\Kanhaiya.Bhayana\source\repos\CleanArchitecture\New folder\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\BuberDinner.Application.sourcelink.json
+C:\Users\Kanhaiya.Bhayana\source\repos\CleanArchitecture\New folder\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\BuberDin.E7CA8231.Up2Date
+C:\Users\Kanhaiya.Bhayana\source\repos\CleanArchitecture\New folder\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\BuberDinner.Application.dll
+C:\Users\Kanhaiya.Bhayana\source\repos\CleanArchitecture\New folder\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\refint\BuberDinner.Application.dll
+C:\Users\Kanhaiya.Bhayana\source\repos\CleanArchitecture\New folder\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\BuberDinner.Application.pdb
+C:\Users\Kanhaiya.Bhayana\source\repos\CleanArchitecture\New folder\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\ref\BuberDinner.Application.dll
