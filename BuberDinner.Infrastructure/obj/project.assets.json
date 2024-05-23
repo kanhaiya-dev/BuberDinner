@@ -616,32 +616,35 @@
     ]
   },
   "packageFolders": {
-    "/home/kanhaiya/.nuget/packages/": {}
+    "C:\\Users\\Kanhaiya.Bhayana\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/kanhaiya/Documents/clean-architecture/BuberDinner/BuberDinner.Infrastructure/BuberDinner.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\CleanArchitecture\\New folder\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
       "projectName": "BuberDinner.Infrastructure",
-      "projectPath": "/home/kanhaiya/Documents/clean-architecture/BuberDinner/BuberDinner.Infrastructure/BuberDinner.Infrastructure.csproj",
-      "packagesPath": "/home/kanhaiya/.nuget/packages/",
-      "outputPath": "/home/kanhaiya/Documents/clean-architecture/BuberDinner/BuberDinner.Infrastructure/obj/",
+      "projectPath": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\CleanArchitecture\\New folder\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\Kanhaiya.Bhayana\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\CleanArchitecture\\New folder\\BuberDinner\\BuberDinner.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/kanhaiya/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Kanhaiya.Bhayana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Source\\Repos\\nugetpackages\\Cms\\bin\\Debug": {},
+        "https://pkgs.dev.azure.com/AssetmarkInc/eWM30/_packaging/eWM30Packages/nuget/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/home/kanhaiya/Documents/clean-architecture/BuberDinner/BuberDinner.Application/BuberDinner.Application.csproj": {
-              "projectPath": "/home/kanhaiya/Documents/clean-architecture/BuberDinner/BuberDinner.Application/BuberDinner.Application.csproj"
+            "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\CleanArchitecture\\New folder\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {
+              "projectPath": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\CleanArchitecture\\New folder\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj"
             }
           }
         }
@@ -650,6 +653,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -689,7 +697,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.105/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

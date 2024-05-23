@@ -1,21 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "cIz6Y0w6OoNAp6d0mbl4P3+KhGJslf57xDvXB3EFPjI8sQ6Ij6U5HFT0YEwoTMITTM9VrWICOTmZ4dr6jgbL8w==",
+  "dgSpecHash": "Xz/U8yI0rLO5QEO1K8fjCp17gigGDD4s+BTVNlarhYGcjMCuKsgKcvnrKRhEUyLp/c0GpvJyDYofzgft046gFQ==",
   "success": true,
-  "projectFilePath": "/home/kanhaiya/Documents/clean-architecture/BuberDinner/BuberDinner.Infrastructure/BuberDinner.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\CleanArchitecture\\New folder\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
   "expectedPackageFiles": [
-    "/home/kanhaiya/.nuget/packages/microsoft.extensions.configuration/8.0.0/microsoft.extensions.configuration.8.0.0.nupkg.sha512",
-    "/home/kanhaiya/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
-    "/home/kanhaiya/.nuget/packages/microsoft.extensions.configuration.binder/8.0.0/microsoft.extensions.configuration.binder.8.0.0.nupkg.sha512",
-    "/home/kanhaiya/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.1/microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
-    "/home/kanhaiya/.nuget/packages/microsoft.extensions.options/8.0.0/microsoft.extensions.options.8.0.0.nupkg.sha512",
-    "/home/kanhaiya/.nuget/packages/microsoft.extensions.options.configurationextensions/8.0.0/microsoft.extensions.options.configurationextensions.8.0.0.nupkg.sha512",
-    "/home/kanhaiya/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
-    "/home/kanhaiya/.nuget/packages/microsoft.identitymodel.abstractions/7.5.2/microsoft.identitymodel.abstractions.7.5.2.nupkg.sha512",
-    "/home/kanhaiya/.nuget/packages/microsoft.identitymodel.jsonwebtokens/7.5.2/microsoft.identitymodel.jsonwebtokens.7.5.2.nupkg.sha512",
-    "/home/kanhaiya/.nuget/packages/microsoft.identitymodel.logging/7.5.2/microsoft.identitymodel.logging.7.5.2.nupkg.sha512",
-    "/home/kanhaiya/.nuget/packages/microsoft.identitymodel.tokens/7.5.2/microsoft.identitymodel.tokens.7.5.2.nupkg.sha512",
-    "/home/kanhaiya/.nuget/packages/system.identitymodel.tokens.jwt/7.5.2/system.identitymodel.tokens.jwt.7.5.2.nupkg.sha512"
+    "C:\\Users\\Kanhaiya.Bhayana\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
+    "C:\\Users\\Kanhaiya.Bhayana\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Kanhaiya.Bhayana\\.nuget\\packages\\microsoft.extensions.configuration.binder\\8.0.0\\microsoft.extensions.configuration.binder.8.0.0.nupkg.sha512",
+    "C:\\Users\\Kanhaiya.Bhayana\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\Kanhaiya.Bhayana\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\Kanhaiya.Bhayana\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\8.0.0\\microsoft.extensions.options.configurationextensions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Kanhaiya.Bhayana\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\Kanhaiya.Bhayana\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.5.2\\microsoft.identitymodel.abstractions.7.5.2.nupkg.sha512",
+    "C:\\Users\\Kanhaiya.Bhayana\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.5.2\\microsoft.identitymodel.jsonwebtokens.7.5.2.nupkg.sha512",
+    "C:\\Users\\Kanhaiya.Bhayana\\.nuget\\packages\\microsoft.identitymodel.logging\\7.5.2\\microsoft.identitymodel.logging.7.5.2.nupkg.sha512",
+    "C:\\Users\\Kanhaiya.Bhayana\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.5.2\\microsoft.identitymodel.tokens.7.5.2.nupkg.sha512",
+    "C:\\Users\\Kanhaiya.Bhayana\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.5.2\\system.identitymodel.tokens.jwt.7.5.2.nupkg.sha512"
   ],
   "logs": []
 }

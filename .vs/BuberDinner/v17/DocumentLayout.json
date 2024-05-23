@@ -3,16 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\CleanArchitecture\\New folder\\BuberDinner\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{57F73021-5973-44A3-BA87-DB87DE04BB93}|BuberDinner.Api\\BuberDinner.Api.csproj|c:\\users\\kanhaiya.bhayana\\source\\repos\\cleanarchitecture\\new folder\\buberdinner\\buberdinner.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57F73021-5973-44A3-BA87-DB87DE04BB93}|BuberDinner.Api\\BuberDinner.Api.csproj|solutionrelative:buberdinner.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{57F73021-5973-44A3-BA87-DB87DE04BB93}|BuberDinner.Api\\BuberDinner.Api.csproj|c:\\users\\kanhaiya.bhayana\\source\\repos\\cleanarchitecture\\new folder\\buberdinner\\buberdinner.api\\controllers\\errorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57F73021-5973-44A3-BA87-DB87DE04BB93}|BuberDinner.Api\\BuberDinner.Api.csproj|solutionrelative:buberdinner.api\\controllers\\errorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{35114F25-ABD0-45E5-921E-8499555E1DD6}|BuberDinner.Application\\BuberDinner.Application.csproj|c:\\users\\kanhaiya.bhayana\\source\\repos\\cleanarchitecture\\new folder\\buberdinner\\buberdinner.application\\services\\authentication\\queries\\authenticationqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35114F25-ABD0-45E5-921E-8499555E1DD6}|BuberDinner.Application\\BuberDinner.Application.csproj|solutionrelative:buberdinner.application\\services\\authentication\\queries\\authenticationqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{015A8B8F-0C7E-4DFD-85FC-86F18B286444}|BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj|c:\\users\\kanhaiya.bhayana\\source\\repos\\cleanarchitecture\\new folder\\buberdinner\\buberdinner.infrastructure\\persistence\\userrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{015A8B8F-0C7E-4DFD-85FC-86F18B286444}|BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj|solutionrelative:buberdinner.infrastructure\\persistence\\userrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F73021-5973-44A3-BA87-DB87DE04BB93}|BuberDinner.Api\\BuberDinner.Api.csproj|c:\\users\\kanhaiya.bhayana\\source\\repos\\cleanarchitecture\\new folder\\buberdinner\\buberdinner.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F73021-5973-44A3-BA87-DB87DE04BB93}|BuberDinner.Api\\BuberDinner.Api.csproj|solutionrelative:buberdinner.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F73021-5973-44A3-BA87-DB87DE04BB93}|BuberDinner.Api\\BuberDinner.Api.csproj|c:\\users\\kanhaiya.bhayana\\source\\repos\\cleanarchitecture\\new folder\\buberdinner\\buberdinner.api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F73021-5973-44A3-BA87-DB87DE04BB93}|BuberDinner.Api\\BuberDinner.Api.csproj|solutionrelative:buberdinner.api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35114F25-ABD0-45E5-921E-8499555E1DD6}|BuberDinner.Application\\BuberDinner.Application.csproj|c:\\users\\kanhaiya.bhayana\\source\\repos\\cleanarchitecture\\new folder\\buberdinner\\buberdinner.application\\services\\authentication\\queries\\iauthenticationqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35114F25-ABD0-45E5-921E-8499555E1DD6}|BuberDinner.Application\\BuberDinner.Application.csproj|solutionrelative:buberdinner.application\\services\\authentication\\queries\\iauthenticationqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35114F25-ABD0-45E5-921E-8499555E1DD6}|BuberDinner.Application\\BuberDinner.Application.csproj|c:\\users\\kanhaiya.bhayana\\source\\repos\\cleanarchitecture\\new folder\\buberdinner\\buberdinner.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35114F25-ABD0-45E5-921E-8499555E1DD6}|BuberDinner.Application\\BuberDinner.Application.csproj|solutionrelative:buberdinner.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35114F25-ABD0-45E5-921E-8499555E1DD6}|BuberDinner.Application\\BuberDinner.Application.csproj|c:\\users\\kanhaiya.bhayana\\source\\repos\\cleanarchitecture\\new folder\\buberdinner\\buberdinner.application\\services\\authentication\\common\\authenticationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35114F25-ABD0-45E5-921E-8499555E1DD6}|BuberDinner.Application\\BuberDinner.Application.csproj|solutionrelative:buberdinner.application\\services\\authentication\\common\\authenticationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35114F25-ABD0-45E5-921E-8499555E1DD6}|BuberDinner.Application\\BuberDinner.Application.csproj|c:\\users\\kanhaiya.bhayana\\source\\repos\\cleanarchitecture\\new folder\\buberdinner\\buberdinner.application\\services\\authentication\\commands\\authenticationcommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35114F25-ABD0-45E5-921E-8499555E1DD6}|BuberDinner.Application\\BuberDinner.Application.csproj|solutionrelative:buberdinner.application\\services\\authentication\\commands\\authenticationcommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35114F25-ABD0-45E5-921E-8499555E1DD6}|BuberDinner.Application\\BuberDinner.Application.csproj|c:\\users\\kanhaiya.bhayana\\source\\repos\\cleanarchitecture\\new folder\\buberdinner\\buberdinner.application\\services\\authentication\\commands\\iauthenticationcommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35114F25-ABD0-45E5-921E-8499555E1DD6}|BuberDinner.Application\\BuberDinner.Application.csproj|solutionrelative:buberdinner.application\\services\\authentication\\commands\\iauthenticationcommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{57F73021-5973-44A3-BA87-DB87DE04BB93}|BuberDinner.Api\\BuberDinner.Api.csproj|c:\\users\\kanhaiya.bhayana\\source\\repos\\cleanarchitecture\\new folder\\buberdinner\\buberdinner.api\\buberdinner.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -26,8 +54,103 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 9,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\CleanArchitecture\\New folder\\BuberDinner\\BuberDinner.Api\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "BuberDinner.Api\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\CleanArchitecture\\New folder\\BuberDinner\\BuberDinner.Api\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "BuberDinner.Api\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T08:33:27.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\CleanArchitecture\\New folder\\BuberDinner\\BuberDinner.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "BuberDinner.Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\CleanArchitecture\\New folder\\BuberDinner\\BuberDinner.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "BuberDinner.Application\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T08:30:37.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthenticationResult.cs",
+              "DocumentMoniker": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\CleanArchitecture\\New folder\\BuberDinner\\BuberDinner.Application\\Services\\Authentication\\Common\\AuthenticationResult.cs",
+              "RelativeDocumentMoniker": "BuberDinner.Application\\Services\\Authentication\\Common\\AuthenticationResult.cs",
+              "ToolTip": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\CleanArchitecture\\New folder\\BuberDinner\\BuberDinner.Application\\Services\\Authentication\\Common\\AuthenticationResult.cs",
+              "RelativeToolTip": "BuberDinner.Application\\Services\\Authentication\\Common\\AuthenticationResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T08:30:09.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthenticationQueryService.cs",
+              "DocumentMoniker": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\CleanArchitecture\\New folder\\BuberDinner\\BuberDinner.Application\\Services\\Authentication\\Queries\\AuthenticationQueryService.cs",
+              "RelativeDocumentMoniker": "BuberDinner.Application\\Services\\Authentication\\Queries\\AuthenticationQueryService.cs",
+              "ToolTip": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\CleanArchitecture\\New folder\\BuberDinner\\BuberDinner.Application\\Services\\Authentication\\Queries\\AuthenticationQueryService.cs",
+              "RelativeToolTip": "BuberDinner.Application\\Services\\Authentication\\Queries\\AuthenticationQueryService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAQwCMAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T08:28:09.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAuthenticationQueryService.cs",
+              "DocumentMoniker": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\CleanArchitecture\\New folder\\BuberDinner\\BuberDinner.Application\\Services\\Authentication\\Queries\\IAuthenticationQueryService.cs",
+              "RelativeDocumentMoniker": "BuberDinner.Application\\Services\\Authentication\\Queries\\IAuthenticationQueryService.cs",
+              "ToolTip": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\CleanArchitecture\\New folder\\BuberDinner\\BuberDinner.Application\\Services\\Authentication\\Queries\\IAuthenticationQueryService.cs",
+              "RelativeToolTip": "BuberDinner.Application\\Services\\Authentication\\Queries\\IAuthenticationQueryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T08:27:23.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAuthenticationCommandService.cs",
+              "DocumentMoniker": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\CleanArchitecture\\New folder\\BuberDinner\\BuberDinner.Application\\Services\\Authentication\\Commands\\IAuthenticationCommandService.cs",
+              "RelativeDocumentMoniker": "BuberDinner.Application\\Services\\Authentication\\Commands\\IAuthenticationCommandService.cs",
+              "ToolTip": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\CleanArchitecture\\New folder\\BuberDinner\\BuberDinner.Application\\Services\\Authentication\\Commands\\IAuthenticationCommandService.cs",
+              "RelativeToolTip": "BuberDinner.Application\\Services\\Authentication\\Commands\\IAuthenticationCommandService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T08:26:46.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthenticationCommandService.cs",
+              "DocumentMoniker": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\CleanArchitecture\\New folder\\BuberDinner\\BuberDinner.Application\\Services\\Authentication\\Commands\\AuthenticationCommandService.cs",
+              "RelativeDocumentMoniker": "BuberDinner.Application\\Services\\Authentication\\Commands\\AuthenticationCommandService.cs",
+              "ToolTip": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\CleanArchitecture\\New folder\\BuberDinner\\BuberDinner.Application\\Services\\Authentication\\Commands\\AuthenticationCommandService.cs",
+              "RelativeToolTip": "BuberDinner.Application\\Services\\Authentication\\Commands\\AuthenticationCommandService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAqwC0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T08:08:23.115Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -36,38 +159,40 @@
               "RelativeDocumentMoniker": "BuberDinner.Infrastructure\\Persistence\\UserRespository.cs",
               "ToolTip": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\CleanArchitecture\\New folder\\BuberDinner\\BuberDinner.Infrastructure\\Persistence\\UserRespository.cs",
               "RelativeToolTip": "BuberDinner.Infrastructure\\Persistence\\UserRespository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T15:19:17.04Z"
+              "WhenOpened": "2024-05-22T15:19:17.04Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ErrorsController.cs",
               "DocumentMoniker": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\CleanArchitecture\\New folder\\BuberDinner\\BuberDinner.Api\\Controllers\\ErrorsController.cs",
               "RelativeDocumentMoniker": "BuberDinner.Api\\Controllers\\ErrorsController.cs",
               "ToolTip": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\CleanArchitecture\\New folder\\BuberDinner\\BuberDinner.Api\\Controllers\\ErrorsController.cs",
               "RelativeToolTip": "BuberDinner.Api\\Controllers\\ErrorsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T14:57:44.373Z"
+              "WhenOpened": "2024-05-22T14:57:44.373Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\CleanArchitecture\\New folder\\BuberDinner\\BuberDinner.Api\\Program.cs",
               "RelativeDocumentMoniker": "BuberDinner.Api\\Program.cs",
               "ToolTip": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\CleanArchitecture\\New folder\\BuberDinner\\BuberDinner.Api\\Program.cs",
               "RelativeToolTip": "BuberDinner.Api\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAXAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-22T14:36:20.588Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "BuberDinner.Api.csproj",
               "DocumentMoniker": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\CleanArchitecture\\New folder\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
               "RelativeDocumentMoniker": "BuberDinner.Api\\BuberDinner.Api.csproj",

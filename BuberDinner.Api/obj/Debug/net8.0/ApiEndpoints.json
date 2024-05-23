@@ -35,7 +35,7 @@
     "ContainingType": "BuberDinner.Api.Controllers.ErrorsController",
     "Method": "Error",
     "RelativePath": "error",
-    "HttpMethod": "",
+    "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [],
