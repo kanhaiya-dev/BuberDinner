@@ -12,6 +12,7 @@ namespace BuberDinner.Api.Controllers
 
         private readonly IAuthenticationCommandService _authenticationCommandService;
         private readonly IAuthenticationQueryService _authenticationQueryService;
+        private readonly IMediator _mediator;
 
         public AuthenticationController(IAuthenticationCommandService authenticationCommandService, IAuthenticationQueryService authenticationQueryService)
         {
