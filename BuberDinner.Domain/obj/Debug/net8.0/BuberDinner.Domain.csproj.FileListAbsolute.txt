@@ -34,3 +34,15 @@ C:\Users\Kanhaiya.Bhayana\source\repos\CleanArchitecture\New folder\BuberDinner\
 C:\Users\Kanhaiya.Bhayana\source\repos\CleanArchitecture\New folder\BuberDinner\BuberDinner.Domain\obj\Debug\net8.0\refint\BuberDinner.Domain.dll
 C:\Users\Kanhaiya.Bhayana\source\repos\CleanArchitecture\New folder\BuberDinner\BuberDinner.Domain\obj\Debug\net8.0\BuberDinner.Domain.pdb
 C:\Users\Kanhaiya.Bhayana\source\repos\CleanArchitecture\New folder\BuberDinner\BuberDinner.Domain\obj\Debug\net8.0\ref\BuberDinner.Domain.dll
+D:\Kanhaiya\Leaning\CleanArchitecture\BuberDinner\BuberDinner.Domain\bin\Debug\net8.0\BuberDinner.Domain.deps.json
+D:\Kanhaiya\Leaning\CleanArchitecture\BuberDinner\BuberDinner.Domain\bin\Debug\net8.0\BuberDinner.Domain.dll
+D:\Kanhaiya\Leaning\CleanArchitecture\BuberDinner\BuberDinner.Domain\bin\Debug\net8.0\BuberDinner.Domain.pdb
+D:\Kanhaiya\Leaning\CleanArchitecture\BuberDinner\BuberDinner.Domain\obj\Debug\net8.0\BuberDinner.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kanhaiya\Leaning\CleanArchitecture\BuberDinner\BuberDinner.Domain\obj\Debug\net8.0\BuberDinner.Domain.AssemblyInfoInputs.cache
+D:\Kanhaiya\Leaning\CleanArchitecture\BuberDinner\BuberDinner.Domain\obj\Debug\net8.0\BuberDinner.Domain.AssemblyInfo.cs
+D:\Kanhaiya\Leaning\CleanArchitecture\BuberDinner\BuberDinner.Domain\obj\Debug\net8.0\BuberDinner.Domain.csproj.CoreCompileInputs.cache
+D:\Kanhaiya\Leaning\CleanArchitecture\BuberDinner\BuberDinner.Domain\obj\Debug\net8.0\BuberDinner.Domain.sourcelink.json
+D:\Kanhaiya\Leaning\CleanArchitecture\BuberDinner\BuberDinner.Domain\obj\Debug\net8.0\BuberDinner.Domain.dll
+D:\Kanhaiya\Leaning\CleanArchitecture\BuberDinner\BuberDinner.Domain\obj\Debug\net8.0\refint\BuberDinner.Domain.dll
+D:\Kanhaiya\Leaning\CleanArchitecture\BuberDinner\BuberDinner.Domain\obj\Debug\net8.0\BuberDinner.Domain.pdb
+D:\Kanhaiya\Leaning\CleanArchitecture\BuberDinner\BuberDinner.Domain\obj\Debug\net8.0\ref\BuberDinner.Domain.dll
