@@ -34,3 +34,15 @@ C:\Users\Kanhaiya.Bhayana\source\repos\CleanArchitecture\New folder\BuberDinner\
 C:\Users\Kanhaiya.Bhayana\source\repos\CleanArchitecture\New folder\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\refint\BuberDinner.Contracts.dll
 C:\Users\Kanhaiya.Bhayana\source\repos\CleanArchitecture\New folder\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\BuberDinner.Contracts.pdb
 C:\Users\Kanhaiya.Bhayana\source\repos\CleanArchitecture\New folder\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\ref\BuberDinner.Contracts.dll
+D:\Kanhaiya\Leaning\CleanArchitecture\BuberDinner\BuberDinner.Contracts\bin\Debug\net8.0\BuberDinner.Contracts.deps.json
+D:\Kanhaiya\Leaning\CleanArchitecture\BuberDinner\BuberDinner.Contracts\bin\Debug\net8.0\BuberDinner.Contracts.dll
+D:\Kanhaiya\Leaning\CleanArchitecture\BuberDinner\BuberDinner.Contracts\bin\Debug\net8.0\BuberDinner.Contracts.pdb
+D:\Kanhaiya\Leaning\CleanArchitecture\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\BuberDinner.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kanhaiya\Leaning\CleanArchitecture\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\BuberDinner.Contracts.AssemblyInfoInputs.cache
+D:\Kanhaiya\Leaning\CleanArchitecture\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\BuberDinner.Contracts.AssemblyInfo.cs
+D:\Kanhaiya\Leaning\CleanArchitecture\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\BuberDinner.Contracts.csproj.CoreCompileInputs.cache
+D:\Kanhaiya\Leaning\CleanArchitecture\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\BuberDinner.Contracts.sourcelink.json
+D:\Kanhaiya\Leaning\CleanArchitecture\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\BuberDinner.Contracts.dll
+D:\Kanhaiya\Leaning\CleanArchitecture\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\refint\BuberDinner.Contracts.dll
+D:\Kanhaiya\Leaning\CleanArchitecture\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\BuberDinner.Contracts.pdb
+D:\Kanhaiya\Leaning\CleanArchitecture\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\ref\BuberDinner.Contracts.dll

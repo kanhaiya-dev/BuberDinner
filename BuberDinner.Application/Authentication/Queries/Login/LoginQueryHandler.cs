@@ -1,37 +1,35 @@
-﻿using BuberDinner.Application.Common.Interfaces.Authentication;
+﻿using BuberDinner.Application.Authentication.Common;
+using BuberDinner.Application.Common.Interfaces.Authentication;
 using BuberDinner.Application.Common.Interfaces.Persistence;
-using BuberDinner.Application.Services.Authentication.Common;
 using BuberDinner.Domain.Entities;
+using MediatR;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BuberDinner.Application.Services.Authentication
+namespace BuberDinner.Application.Authentication.Queries.Login
 {
-    public class AuthenticationQueryService : IAuthenticationQueryService
+    public class LoginQueryHandler : IRequestHandler<LoginQuery, AuthenticationResult>
     {
         private readonly IJwtTokenGenerator _jwtTokenGenerator;
         private readonly IUserRepository _userRepository;
-        public AuthenticationQueryService(IJwtTokenGenerator jwtTokenGenerator, IUserRepository userRepository)
+        public LoginQueryHandler(IJwtTokenGenerator jwtTokenGenerator, IUserRepository userRepository)
         {
             _jwtTokenGenerator = jwtTokenGenerator;
             _userRepository = userRepository;
         }
-
-        
-
-        public AuthenticationResult Login(string email, string password)
+        public async Task<AuthenticationResult> Handle(LoginQuery query, CancellationToken cancellationToken)
         {
             // 1. Validate the user exists
-            if (_userRepository.GetUserByEmail(email) is not User user)
+            if (_userRepository.GetUserByEmail(query.Email) is not User user)
             {
                 throw new Exception("User with given email does not exist.");
             }
 
             // 2. Validate the password is correct
-            if (user.Password != password)
+            if (user.Password != query.Password)
             {
                 throw new UnauthorizedAccessException("Invalid password");
             }

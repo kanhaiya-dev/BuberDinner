@@ -46,3 +46,21 @@ C:\Users\Kanhaiya.Bhayana\source\repos\CleanArchitecture\New folder\BuberDinner\
 C:\Users\Kanhaiya.Bhayana\source\repos\CleanArchitecture\New folder\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\refint\BuberDinner.Application.dll
 C:\Users\Kanhaiya.Bhayana\source\repos\CleanArchitecture\New folder\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\BuberDinner.Application.pdb
 C:\Users\Kanhaiya.Bhayana\source\repos\CleanArchitecture\New folder\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\ref\BuberDinner.Application.dll
+D:\Kanhaiya\Leaning\CleanArchitecture\BuberDinner\BuberDinner.Application\bin\Debug\net8.0\BuberDinner.Application.deps.json
+D:\Kanhaiya\Leaning\CleanArchitecture\BuberDinner\BuberDinner.Application\bin\Debug\net8.0\BuberDinner.Application.dll
+D:\Kanhaiya\Leaning\CleanArchitecture\BuberDinner\BuberDinner.Application\bin\Debug\net8.0\BuberDinner.Application.pdb
+D:\Kanhaiya\Leaning\CleanArchitecture\BuberDinner\BuberDinner.Application\bin\Debug\net8.0\BuberDinner.Contracts.dll
+D:\Kanhaiya\Leaning\CleanArchitecture\BuberDinner\BuberDinner.Application\bin\Debug\net8.0\BuberDinner.Domain.dll
+D:\Kanhaiya\Leaning\CleanArchitecture\BuberDinner\BuberDinner.Application\bin\Debug\net8.0\BuberDinner.Contracts.pdb
+D:\Kanhaiya\Leaning\CleanArchitecture\BuberDinner\BuberDinner.Application\bin\Debug\net8.0\BuberDinner.Domain.pdb
+D:\Kanhaiya\Leaning\CleanArchitecture\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\BuberDinner.Application.csproj.AssemblyReference.cache
+D:\Kanhaiya\Leaning\CleanArchitecture\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\BuberDinner.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kanhaiya\Leaning\CleanArchitecture\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\BuberDinner.Application.AssemblyInfoInputs.cache
+D:\Kanhaiya\Leaning\CleanArchitecture\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\BuberDinner.Application.AssemblyInfo.cs
+D:\Kanhaiya\Leaning\CleanArchitecture\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\BuberDinner.Application.csproj.CoreCompileInputs.cache
+D:\Kanhaiya\Leaning\CleanArchitecture\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\BuberDinner.Application.sourcelink.json
+D:\Kanhaiya\Leaning\CleanArchitecture\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\BuberDin.E7CA8231.Up2Date
+D:\Kanhaiya\Leaning\CleanArchitecture\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\BuberDinner.Application.dll
+D:\Kanhaiya\Leaning\CleanArchitecture\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\refint\BuberDinner.Application.dll
+D:\Kanhaiya\Leaning\CleanArchitecture\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\BuberDinner.Application.pdb
+D:\Kanhaiya\Leaning\CleanArchitecture\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\ref\BuberDinner.Application.dll
