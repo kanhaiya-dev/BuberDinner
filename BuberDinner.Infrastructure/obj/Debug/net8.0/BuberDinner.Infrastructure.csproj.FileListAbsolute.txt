@@ -72,3 +72,5 @@ D:\Kanhaiya\Leaning\CleanArchitecture\BuberDinner\BuberDinner.Infrastructure\obj
 D:\Kanhaiya\Leaning\CleanArchitecture\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net8.0\refint\BuberDinner.Infrastructure.dll
 D:\Kanhaiya\Leaning\CleanArchitecture\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net8.0\BuberDinner.Infrastructure.pdb
 D:\Kanhaiya\Leaning\CleanArchitecture\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net8.0\ref\BuberDinner.Infrastructure.dll
+C:\Users\Kanhaiya.Bhayana\source\repos\CleanArchitecture\New folder\BuberDinner\BuberDinner.Infrastructure\bin\Debug\net8.0\BuberDinner.Contracts.dll
+C:\Users\Kanhaiya.Bhayana\source\repos\CleanArchitecture\New folder\BuberDinner\BuberDinner.Infrastructure\bin\Debug\net8.0\BuberDinner.Contracts.pdb

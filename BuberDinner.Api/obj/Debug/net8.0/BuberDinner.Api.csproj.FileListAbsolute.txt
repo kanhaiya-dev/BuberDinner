@@ -189,3 +189,6 @@ D:\Kanhaiya\Leaning\CleanArchitecture\BuberDinner\BuberDinner.Api\obj\Debug\net8
 D:\Kanhaiya\Leaning\CleanArchitecture\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.pdb
 D:\Kanhaiya\Leaning\CleanArchitecture\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.genruntimeconfig.cache
 D:\Kanhaiya\Leaning\CleanArchitecture\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\ref\BuberDinner.Api.dll
+C:\Users\Kanhaiya.Bhayana\source\repos\CleanArchitecture\New folder\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\MediatR.dll
+C:\Users\Kanhaiya.Bhayana\source\repos\CleanArchitecture\New folder\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\Kanhaiya.Bhayana\source\repos\CleanArchitecture\New folder\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
