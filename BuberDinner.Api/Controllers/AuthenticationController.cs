@@ -31,7 +31,7 @@ namespace BuberDinner.Api.Controllers
 
             var authResult = await _mediator.Send(command);
             //var response = new AuthenticationResult(authResult.user, authResult.Token);
-            var response = _mapper.Map<AuthenticationResult>(authResult);
+            var response = _mapper.Map<AuthenticationResponse>(authResult);
 
             return Ok(response);
         }
@@ -48,7 +48,7 @@ namespace BuberDinner.Api.Controllers
             var authResult = await _mediator.Send(query);
 
             //var response = new AuthenticationResult(authResult.user, authResult.Token);
-            var response = _mapper.Map<AuthenticationResult>(authResult);
+            var response = _mapper.Map<AuthenticationResponse>(authResult);
 
             return Ok(response);
         }
