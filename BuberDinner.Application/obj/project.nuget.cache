@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "7NrV4svIla4Frjv7Wr350FPkePtgyNtIxUuIhfD8IDHn0X5JNyEbRn0tUyPJtiPqyXsVskHAuLNVJ4oaEkMpwQ==",
+  "dgSpecHash": "Nci6BKtkots=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\CleanArchitecture\\New folder\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
+  "projectFilePath": "D:\\Kanhaiya\\Leaning\\CleanArchitecture\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Kanhaiya.Bhayana\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
-    "C:\\Users\\Kanhaiya.Bhayana\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
-    "C:\\Users\\Kanhaiya.Bhayana\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
-    "C:\\Users\\Kanhaiya.Bhayana\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+    "C:\\Users\\ANSHUL\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\ANSHUL\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\ANSHUL\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\ANSHUL\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
   ],
   "logs": []
 }

@@ -20,7 +20,7 @@ namespace BuberDinner.Application.Authentication.Queries.Login
             _jwtTokenGenerator = jwtTokenGenerator;
             _userRepository = userRepository;
         }
-        public async Task<AuthenticationResult> Handle(LoginQuery query, CancellationToken cancellationToken)
+        public Task<AuthenticationResult> Handle(LoginQuery query, CancellationToken cancellationToken)
         {
             // 1. Validate the user exists
             if (_userRepository.GetUserByEmail(query.Email) is not User user)
@@ -37,9 +37,7 @@ namespace BuberDinner.Application.Authentication.Queries.Login
             // 3. Create JWT token
             var token = _jwtTokenGenerator.GenerateToken(user);
 
-            return new AuthenticationResult(
-                user,
-                token);
+            return Task.FromResult(new AuthenticationResult(user, token));
         }
     }
 }

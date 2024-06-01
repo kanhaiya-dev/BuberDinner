@@ -148,3 +148,9 @@ C:\Users\Kanhaiya.Bhayana\source\repos\CleanArchitecture\New folder\BuberDinner\
 C:\Users\Kanhaiya.Bhayana\source\repos\CleanArchitecture\New folder\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.pdb
 C:\Users\Kanhaiya.Bhayana\source\repos\CleanArchitecture\New folder\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.genruntimeconfig.cache
 C:\Users\Kanhaiya.Bhayana\source\repos\CleanArchitecture\New folder\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\ref\BuberDinner.Api.dll
+D:\Kanhaiya\Leaning\CleanArchitecture\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Mapster.dll
+D:\Kanhaiya\Leaning\CleanArchitecture\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Mapster.Core.dll
+D:\Kanhaiya\Leaning\CleanArchitecture\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Mapster.DependencyInjection.dll
+D:\Kanhaiya\Leaning\CleanArchitecture\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Kanhaiya\Leaning\CleanArchitecture\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Kanhaiya\Leaning\CleanArchitecture\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
