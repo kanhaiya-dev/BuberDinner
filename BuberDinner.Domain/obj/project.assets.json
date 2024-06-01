@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Kanhaiya.Bhayana\\.nuget\\packages\\": {}
+    "C:\\Users\\ANSHUL\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\CleanArchitecture\\New folder\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
+      "projectUniqueName": "D:\\Kanhaiya\\Leaning\\CleanArchitecture\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
       "projectName": "BuberDinner.Domain",
-      "projectPath": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\CleanArchitecture\\New folder\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
-      "packagesPath": "C:\\Users\\Kanhaiya.Bhayana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\CleanArchitecture\\New folder\\BuberDinner\\BuberDinner.Domain\\obj\\",
+      "projectPath": "D:\\Kanhaiya\\Leaning\\CleanArchitecture\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
+      "packagesPath": "C:\\Users\\ANSHUL\\.nuget\\packages\\",
+      "outputPath": "D:\\Kanhaiya\\Leaning\\CleanArchitecture\\BuberDinner\\BuberDinner.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Kanhaiya.Bhayana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ANSHUL\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,8 +28,9 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Source\\Repos\\nugetpackages\\Cms\\bin\\Debug": {},
-        "https://pkgs.dev.azure.com/AssetmarkInc/eWM30/_packaging/eWM30Packages/nuget/v3/index.json": {}
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://sitecore.myget.org/F/sc-packages/api/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
@@ -67,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
